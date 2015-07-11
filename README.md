@@ -22,6 +22,8 @@
 ####Running software version locally:
 - OS X Yosemite
 - Python 2.7.10
+- Vagrant
+- Virtual Box
 
 ####Reference
 - Udacity class of intro of relational database
